@@ -1,6 +1,6 @@
 Elite: Dangerous Tools
 =========
-A curated list of tools to assist players in Elite: Dangerous by Frontier Developments.
+A curated list of websites to assist players in Elite: Dangerous by Frontier Developments.
 
 * [Elite: Dangerous Database](https://eddb.io/) - A site about systems, bodies, stations, commodities, materials and trade routes in Elite: Dangerous
 * [Coriolis EDCD Edition](https://coriolis.edcd.io) - A ship builder, outfitting and comparison tool for Elite Dangerous
